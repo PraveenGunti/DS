@@ -5,3 +5,9 @@ Data Definition defines a particular data with the following characteristics.
 •	Traceable − Definition should be able to be mapped to some data element.
 •	Accurate − Definition should be unambiguous.
 •	Clear and Concise − Definition should be understandable
+Data Object
+Data Object represents an object having a data.
+Data Type
+Data type is a way to classify various types of data such as integer, string, etc. which determines the values that can be used with the corresponding type of data, the type of operations that can be performed on the corresponding type of data. There are two data types
+1.Built-in Data Type
+2.Derived Data Type
