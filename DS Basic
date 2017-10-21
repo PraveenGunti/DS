@@ -26,7 +26,9 @@ For example, most of the languages provide the following built-in data types.
 4 Character and Strings
 
 Derived Data Type
-Those data types which are implementation independent as they can be implemented in one or the other way are known as derived data types. These data types are normally built by the combination of primary or built-in data types and associated operations on them. For example 
+Those data types which are implementation independent as they can be implemented in one or the other way are 
+known as derived data types. These data types are normally built by the combination of primary or built-in data types and associated operations on them. 
+For example 
 1 List
 2 Array
 3 Stack
@@ -34,7 +36,9 @@ Those data types which are implementation independent as they can be implemented
 
 
 Basic Operations
-The data in the data structures are processed by certain operations. The particular data structure chosen largely depends on the frequency of the operation that needs to be performed on the data structure.
+The data in the data structures are processed by certain operations. 
+The particular data structure chosen largely depends on the frequency of the operation that needs to be performed on the data structure.
+For example
 1 Traversing
 2 Searching
 3 Insertion
